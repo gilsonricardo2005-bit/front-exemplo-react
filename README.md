@@ -15,7 +15,7 @@
 
 ---
 
-## 📋 Sobre o Projeto
+## 📋 Sobre o Projeto do Gilson
 
 Este é um projeto **educacional completo** criado para ensinar desenvolvimento web moderno. Ele implementa um sistema de gerenciamento de músicas (CRUD completo) com:
 
